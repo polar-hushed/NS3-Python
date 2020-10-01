@@ -51,4 +51,5 @@ in the ns-allinone-3.xx folder.
 The copy the example file to the scratch folder. To test it run:
   ./waf --run scratch/policy-routing 
 
-The example can also be run using the visualiser.
+The both examples can also be run using the visualiser.
+
